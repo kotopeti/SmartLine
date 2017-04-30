@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/248c4efd808d4166a58e82881f5e298260c40c59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4838df6db988160b107e954e02a745370df543b6">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_3c01f167b34af0896f5432429386b01d90d7b62c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/c968e72f2ea83d40f04016e0aa23047d5ea74f35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_6002b14c7d8d639a40cc487aaaec748a541c6182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/da7b28bf302762dc219a710e451fca46a72baf61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_deb84bc81fbb70a3a0e25c6525db77bbbe40d51f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/ff370352c59cbed31410a5678e81b9ff5740f841/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_4c338237e3f8e1093c147c3521377d9db87a0e7a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="603b7aca405d1a447fcc53778477f141ff192967">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9e4f8dd5f0e608da99d6e95f3f8cb404bd431420/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/d07ce1d7924ca2094fcd5081d178708bdc430fb9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd7676ac12aa6653718b7ea33d93ce9d6915d526">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_a516519fbf744923a2e7b0e07623457780920919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/3b226944fb6c908155515ac15685c3f256874df7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_198a390aa05ddc237050ab0723768b92947846a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/0e245b1c2c6ef485aa8ecb79156a5c8401228883/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="21bb89120d84fa29afeb0f9c0ebf415bc3b45a7e">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_d25b9d4aa9c0c91fef906ee5be5728e8dde02ad4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.3/e876a79d561e5c6207b78d347e198c8c4531a5e5/httpcore-4.4.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/httpcore-4.4.3_165c490c3d2eb39004b30266191db06c6e9848d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_23716d30d6d18d520d5c123624661f97708657fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/b133729348b7318d8fbd4bd2a4147095739f9cad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_cc38381766a6b9f18a7ef0003d2565b05c3a1cbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/3bf20473d7066b9fb96be9121410e30921f5d310/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_61c7c8c7e0992db2b8a10c83f9144e4bf3081e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/b37a56464c4d0b1214b33ec1afff9a0dd1358a8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e6a161b3796c15fe00755ce47e03067e568ecc4">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_b0f196ec5ad71543035a43ef2ef579ef68b71b61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/e466fe86f9b0f723ee1d379701532fec5c430db6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_409ef03fe64b07fc5106cac222eb69fa1ad967f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/f2fbc8a7102699a50fbcb96bf53e1f572d281225/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="593fbaec1c3e100480a2bd72457b64b7dde6ac2d">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_0c125be37fe89d21f1a9e7fce99fa51ca856949e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/Documents/Software/android-sdk-macosx/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_efae218311f1237b00330674ff4dca2242c51c22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/a758e7a70df7d866a0ceb82ab381147b72ef78fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_bbf9c57015114a55a00833a551b4540bcda8df38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/Documents/Software/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_323363ad6771a1ebaed7ab1b050af1a2e9f7ed02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/973bd9dfc992e35661a32128571058529c840343/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_601dcaf3d3b033c36ebded190171b9f109c86c5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/4afb2336f4c8466f53d6f92ea38345050451a50b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_9d734ae23d6796ae8002f3984ed3d38015a0ca3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/42b5e0eccb9747e7b027705bd7b97d1f52bfff9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dc4c18602ecffb3e69cda6cdc51ba4feac0f97d7">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_9974e388c9be69a7922c5230ab1493d9f2c948a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/796b9258f9be776eedfdea209d7176a47d3e04e2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363f626ad5686283250cdb6073ae1bba5cb07a87">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_1fdd59de90176012363272281aa8b07cb5b5413c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/7429a312777b60385eebb952b80ceece906eda2d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb15fd9774b5c51dcb39d8e6fa1b6f06bcd1cd34">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_65667ab3f2699e80958a1d2b7ec452ee2007ee38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/d0ab84041d296958c5ff3754cee74975c7c1f36e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_f7355e74bb889f31225446a1b64eb6aece30dbe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/0f8daca963589305c1693fcbae6e4fb0cf64413e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_496f81711b3846ea4223ca9ce2b23f7936eb2a76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/macbookpro/.android/build-cache/2b2386edef5c744ee7bed5995daa6eb0de139f7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/macbookpro/AndroidstudioProjects/SmartLine/app/build/intermediates/pre-dexed/debug/classes_2e5c69d3c024754fcfbf5e3248d397424ba5fc5e.jar" />
+    </item>
+
+</items>
