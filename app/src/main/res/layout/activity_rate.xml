@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="banq.smartline.Rate">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:popupTheme="@style/AppTheme.PopupOverlay" />
+
+    </android.support.design.widget.AppBarLayout>
+
+    <include layout="@layout/content_rate" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/smartline"
+        android:layout_marginTop="70dp"/>
+
+    <TextView
+        android:id="@+id/textView_merci"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:lineSpacingExtra="14sp"
+        android:text="@string/merci"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/colorPrimary"/>
+    <TextView
+        android:id="@+id/textView_merci_attente"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:lineSpacingExtra="14sp"
+        android:text="Votre temps d'attente a été de :"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingTop="10dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <TextView
+        android:id="@+id/textView_merci_temps_attente"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:lineSpacingExtra="14sp"
+        android:text="00:00:00"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingTop="20dp"
+        android:textColor="@color/colorPrimary"/>
+
+
+    <TextView
+        android:id="@+id/textView_temps_attente_service"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fontFamily="sans-serif-condensed"
+        android:gravity="center"
+        android:lineSpacingExtra="14sp"
+        android:text="Comment trouvez-vous notre service?"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:paddingTop="30dp"
+        android:textColor="@color/colorPrimary"/>
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:numStars="5"
+        android:stepSize="1"
+        android:rating="1"/>
+
+    <Button
+        android:id="@+id/button_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Valider"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    </LinearLayout>
+
+
+</android.support.design.widget.CoordinatorLayout>

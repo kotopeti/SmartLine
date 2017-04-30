@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "1045304060004",
+    "project_id": "smartline-162218"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045304060004:android:d39b60f765e9a439",
+        "android_client_info": {
+          "package_name": "banq.smartline"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0Zv4uibViXJnz1fmCwSbLYpcmiPYQA28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

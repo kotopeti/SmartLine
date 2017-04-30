@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="banq.smartline">
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <service android:name="com.alexfu.countdownview.core.TimerService" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.TAG_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.nfc.action.TECH_DISCOVERED"
+                android:resource="@xml/nfc_tech_filter" />
+        </activity>
+        <activity
+            android:name=".MenuPrincipale"
+            android:label="@string/title_activity_menu_principale"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Retrait"
+            android:label="@string/title_activity_retrait"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Espece"
+            android:label="@string/title_activity_espece"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Cheque"
+            android:label="@string/title_activity_cheque"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Info"
+            android:label="@string/title_activity_info"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Apropos"
+            android:label="@string/title_activity_apropos"
+            android:theme="@style/AppTheme" />
+
+        <service android:name="fcm.MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name="fcm.FirebaseIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <intent-filter>
+            <action android:name="OPEN_ACTIVITY_MENU" />
+
+            <category android:name="android.intent.java.banq.smartline.MenuPrincipale" />
+        </intent-filter>
+
+        <activity
+            android:name=".Register"
+            android:label="@string/title_activity_register"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".FilAttente"
+            android:label="@string/title_activity_fil_attente"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".VotreTour"
+            android:label="@string/title_activity_votre_tour"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Rate"
+            android:label="@string/title_activity_rate"
+            android:theme="@style/AppTheme"></activity>
+    </application>
+
+</manifest>
